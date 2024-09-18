@@ -1,2 +1,2 @@
 # prisma-cloud-devsecops-workshop
-DevSecOps with Prisma Cloud - Updated Main Again 2 secret
+DevSecOps with Prisma Cloud - Updated Secrets and Security
