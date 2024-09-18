@@ -135,6 +135,7 @@ resource "aws_s3_bucket" "logs" {
     yor_trace            = "ccaaff27-6e43-43af-8863-5fcf18796a3b"
   }
 }
+
 resource "aws_s3_bucket" "devsecops" {
   # bucket is public
   # bucket is not encrypted
