@@ -143,4 +143,5 @@ resource "aws_s3_bucket" "devsecops" {
   # bucket does not have versioning
   bucket        = "${local.resource_prefix.value}-devsecops"
   force_destroy = true
+  
 }
